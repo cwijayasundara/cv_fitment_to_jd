@@ -1,0 +1,7 @@
+pypdf2
+langchain-openai
+langchain-community
+python-dotenv
+tiktoken
+streamlit
+pymupdf
