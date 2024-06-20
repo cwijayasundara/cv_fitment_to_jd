@@ -1,0 +1,50 @@
+About the job
+Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.
+
+Joining Snyk means embracing our core values: One Team, Care Deeply, Customer Centric, and Forward Thinking. As a member of our team, you’ll have the opportunity to thrive in a dynamic environment where fostering collaboration, leading with empathy, driving business impact, and inspiring trust are at the heart of everything we do.
+
+Our Opportunity
+
+Snyk is a developer-first application security company and the role of the VP, Engineering Developer Experience is to make sure that we succeed in driving transformation in our customers’ organizations by winning the hearts and minds of developers. They are tirelessly focused on how to build an industry-leading experience that brings the most important security information as close to where code is written as is possible. The VP, Engineering strives to create a consistent experience for developers across our CLI, SCM and IDE surfaces. They work to seamlessly blend the data from our SCA and SAST products into a single experience, all while grounding these findings in deep context about why they are important, coming from our AppRisk product and connected to education in our Learn product.
+
+As the VP, Engineering and division leader they are a model of the best of Snyk. They create high-performing organizations focused on learning and constant improvement. They lead with humility, seek to absorb divergent perspectives and they understand the details, digging in deeply to drive strong execution across their area, and ensuring that our planned work helps drive the strategic direction of the company.
+
+You’ll Spend Your Time
+
+Leading one of the most critical divisions in Snyk, directly responsible for our CLI, IDE and SCM integrations.
+Aligning with other Division Leads to implement a best in class experience for developers across all Snyk surfaces.
+Building a single consistent developer experience across all of Snyk which combines our SCA and SAST products, while enriching them with context from AppRisk.
+Driving execution of key initiatives around Developer Experience, both within the division, and across all of Engineering.
+Paying meticulous attention to the details - ensuring that we have excellent project plans and execute well against them. Intervene when technical programs are off-track to ensure that they deliver.
+Building an excellent team to deliver on this mission and ensuring that they continue to grow and thrive at Snyk. This includes developing an environment where all of our people can thrive.
+
+What You’ll Need
+
+Deep understanding of the Snyk stack, and how it serves the needs of developers. The VP, Engineering must be able to dive arbitrarily deep when required and work directly with the teams on understanding their key technical challenges, and helping them to find a path forward.
+Proven experience managing an organization of 50+, with focus on systematically developing our key talent, running the rewards system and setting consistent standards across the team.
+Strong ability to drive execution by ensuring that key programs have strong cross-functional plans, and that those plans are well executed. Intervene when execution is off-track, whether it’s in the Division or elsewhere in the organization.
+Collaboratively devise a long-term strategy for the organization, spanning both the key customer needs, and strategic functional evolution of the product, in addition to the key non-functional requirements of the product (reliability, scale, supportability, maintainability). Ensure that this long-term strategy is operationalized by near-term milestones, and clearly present this progress to the organization and senior leadership.
+Are a kind and thoughtful leader who works to earn followership.
+Appreciate a fast moving, energetic, and collaborative environment.
+
+We’d Be Lucky If You
+
+Possess an adaptable communications toolkit and are able to tailor their approach to different stakeholders, presenting the same information in the way that each will find most relevant and impactful.
+Are able to drive consensus with a broad range of technical and non-technical stakeholders, often making hard decisions while leaving everyone feeling respected and heard.
+Earns the respect of their team by offering a challenging but respectful perspective and pushing the team to do more than they thought possible.
+Encourage a learning culture by modeling humility and respect in all of their interactions with others at Snyk. Foster an open and non-judgemental dialog with the team about where they can improve and pushes the team to implement those learnings.
+
+We care deeply about the warm, inclusive environment we’ve created and we value diversity – we welcome applications from those typically underrepresented in tech. If you like the sound of this role but are not totally sure whether you’re the right person, do apply anyway!
+
+About Snyk
+
+Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk.
+
+Benefits & Programs
+
+Prioritize health, wellness, financial security, and life balance with programs tailored to your location and role.
+
+Flexible working hours, work-from home allowances, in-office perks, and time off for learning and self development
+Generous vacation and wellness time off, country-specific holidays, and 100% paid parental leave for all caregivers
+Health benefits, employee assistance plans, and annual wellness allowance
+Country-specific life insurance, disability benefits, and retirement/pension programs, plus mobile phone and education allowances
